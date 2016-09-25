@@ -1,0 +1,3 @@
+DROP DATABASE cefisi_jpa_formation_test;
+CREATE DATABASE cefisi_jpa_formation_test;
+USE cefisi_jpa_formation_test;
